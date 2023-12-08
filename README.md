@@ -1,6 +1,6 @@
 # PassGen
 
-PassGen is a simple application, which may you have guessed, helps you to generate a random password easily and quickly. You can choose the length of the generated password, whether or not it includes numbers, upper case letters, or symbols.
+PassGen is a simple application, which may you have guessed, helps you to generate a random password easily and quickly. You can choose the length of the generated password, whether or not it includes numbers, upper case letters, or symbols. Also, there's a button to copy the generated password to your phone's clipboard to use it in the sign up process in other applications easily.
 
 The application is made with Material You design in mind, which means it supports dynamic color and a themed icon. Also, it supports the predictive back gesture.
 
