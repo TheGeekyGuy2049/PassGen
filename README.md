@@ -10,6 +10,6 @@ Disclaimer: dynamic color and themed icon is only supported on Android 12+, whil
 
 ![GitHub followers](https://img.shields.io/github/followers/TheGeekyGuy2049)
 
-![](G:\AndroidStudio\passgen\screenshots\Screenshot_20231208-231810_PassGen.png)
+![Screenshot_20231208-231810_PassGen](G:\AndroidStudio\passgen\screenshots\Screenshot_20231208-231810_PassGen.png)
 
-![](G:\AndroidStudio\passgen\screenshots\Screenshot_20231208-231832_PassGen.png)
+![Screenshot_20231208-231832_PassGen](G:\AndroidStudio\passgen\screenshots\Screenshot_20231208-231832_PassGen.png)
